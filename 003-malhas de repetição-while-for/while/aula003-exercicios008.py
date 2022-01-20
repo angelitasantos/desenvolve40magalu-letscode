@@ -8,8 +8,17 @@ Dica: Use três variáveis:
 A repetição da soma de mil termos pode ser feita com a função while contador < 1000.
 '''
 
-
-
 '''
 1 + 1/2 + 1/4 + ... = 2.0
 '''
+
+contador = 0
+soma = 0
+termo = 1
+
+while contador <= 1000:
+    soma = soma + termo
+    termo = termo / 2
+    contador = contador + 1
+
+print(soma)
