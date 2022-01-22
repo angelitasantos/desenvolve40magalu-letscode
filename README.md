@@ -7,4 +7,4 @@ Resolução dos exercícios
 - variáveis, entradas e saídas, operadores aritméticos
 - operações lógicas
 - expressões condicionais
-- malhas de repetição
+- malhas de repetição: while e for
