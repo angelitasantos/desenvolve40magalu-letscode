@@ -8,3 +8,5 @@ Resolução dos exercícios
 - operações lógicas
 - expressões condicionais
 - malhas de repetição: while e for
+- listas, dicionários
+- funções
