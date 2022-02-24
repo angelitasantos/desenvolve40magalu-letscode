@@ -1,4 +1,4 @@
-## Programa Desenvolve 40+ Magalu 
+## Programa Desenvolve 40+ Magalu / Let's Code
 ### Python: Lógica de Programação (exercícios)
 
 
@@ -10,3 +10,4 @@ Resolução dos exercícios
 - malhas de repetição: while e for
 - listas, dicionários
 - funções
+- strings
