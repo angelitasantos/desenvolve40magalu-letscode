@@ -1,6 +1,13 @@
 ## Programa Desenvolve 40+ Magalu / Let's Code
-### Python: Lógica de Programação (exercícios)
 
+### Python: Projetos finais por módulo
+- análise de produtos
+- locação de bicicletas
+- encontrar rios
+- banco de dados: escola
+
+
+### Python: Lógica de Programação (exercícios)
 
 Resolução dos exercícios
 
